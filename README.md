@@ -9,4 +9,4 @@
 2. At eame will indicate whose turn (Player A or Player B) it is. When the game ends, it displays one of the following outcomes:
    * Winner: Player A
    * Winner: Player B
-   * Draw
+   * Draw--
